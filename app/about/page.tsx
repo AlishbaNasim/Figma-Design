@@ -6,12 +6,12 @@ function About() {
         <div className=' px-10 pt-7 '>
             <div className="flex justify-between px-8 pt-8 w-[590px] h-[370px] ">
                 <div>
-                    <h1 className="w-[325px] h-36 text-4xl  ">Hi I'm Mehmet Akif Karasu, 3D artist & sculptor.</h1>
+                    <h1 className="w-[325px] h-36 text-4xl  ">Hi I&apos;m Mehmet Akif Karasu&#44; 3D artist & sculptor.</h1>
                     <p className="w-[575px] text-[20px]  h-48">
                         My work is mainly focused on third-dimension modeling, texturing and rendering. I like exploring the creatures with a touch of dark surrealism for characters and production.
                     </p>
                     <p className="w-[575px] h-36 text-[20px]">
-                        Now I'm an interactive media design student in Istanbul ⏤ currently freelancing and seeking internship opportunities.
+                        Now I&apos;m an interactive media design student in Istanbul ⏤ currently freelancing and seeking internship opportunities.
                     </p>
                 </div>
                 <div >
@@ -27,10 +27,10 @@ function About() {
                     <h3 className='text-xl underline flex'>Main Software</h3>
                     <div className='flex flex-col'>
                         <p className='w-[436px] h-[54px]'>
-                            Pixologic ZBrush, Autodesk Maya, The Foundry Mari, Arnold Renderer, Blender, Forger
+                            Pixologic ZBrush&#44; Autodesk Maya&#44; The Foundry Mari&#44; Arnold Renderer&#44; Blender&#44; Forger
                         </p>
                         <p className='pt-5'>
-                            Adobe CC, Figma, Ableton
+                            Adobe CC&#44; Figma&#44; Ableton
                         </p>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ function About() {
                     <h3 className='text-xl underline'>Main Skills</h3>
                     <div className='flex'>
                         <p className='w-[436px] h-[150px]'>
-                            Organic and Polygonal Modeling, UV Layout, Texturing, Retopology, Ilustration, Sound Design
+                            Organic and Polygonal Modeling&#44; UV Layout&#44; Texturing&#44; Retopology&#44; Ilustration&#44;Sound Design
                         </p>
                     </div>
                 </div>

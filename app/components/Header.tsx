@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'next/link'
-import About from '../about/page'
 function Header() {
     return (
         <div className='flex justify-between px-16 text-[24px]'>
