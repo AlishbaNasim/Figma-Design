@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <div className="flex justify-around ">
         <div className="  text-[60px] pt-[160px] px-6 w-[500px]">
-          <h1 >Hello&#44; I'm Mehmet Akif.</h1>   
+          <h1 >Hello&#44; I&apos;m Mehmet Akif.</h1>   
           <p className="h-[38.09px] w-[35px] pt-6">↓</p>
         </div>
         <div className="w-[580px] text-[32px] pt-[210px] ">
